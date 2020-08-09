@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quizzer</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="highscore_0">Highscore: 0</string>
+    <string name="my_awesome_quiz">My Awesome Quiz</string>
+    <string name="QuizBolt">QuizBolt</string>
+    <string name="signup_here">SignUp Here</string>
+
+
+    <string name="login">Login</string>
+    <string name="or">OR</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="whereemail">where email=?</string>
+    <string name="congratulations_you_have_successfully_completed_your_quiz">Congratulations! You have successfully completed your Quiz</string>
+    <string name="score">Score</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="_1_10">1/10</string>
+    <string name="back_to_menu">Back to Menu</string>
+    <string name="_1_10_">1 / 10</string>
+    <string name="welcome_to_quizzer">Welcome to Quizzer!</string>
+</resources>
